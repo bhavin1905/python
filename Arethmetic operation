@@ -9,7 +9,9 @@ sum = a+b
 multi= a*b
 sub = a-b
 modulo = a%b
+a>b
 print(sum)
 print(multi)
 print(sub)
 print(modulo)
+print(a>b)
