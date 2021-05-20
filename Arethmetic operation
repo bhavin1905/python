@@ -1,0 +1,15 @@
+#Arethmetic operation using python 
+
+
+a = input("Enter the first number: ")
+a = int(a)
+b = input("Enter the secod number: ")
+b = int(b)
+sum = a+b
+multi= a*b
+sub = a-b
+modulo = a%b
+print(sum)
+print(multi)
+print(sub)
+print(modulo)
