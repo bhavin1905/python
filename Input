@@ -1,0 +1,9 @@
+# Take a input from user
+a = input("Enter the number:")
+a = int(a)
+print(a)
+
+#print class 
+a = input("Enter the number:")
+a = int(a)
+print(type(a))
