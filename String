@@ -15,7 +15,8 @@ print(type(name)) #--> in this you find the class of name
 
 #print a char one by one 
 name = "Code"
-print(name[0]) #--> print C 
-print(name[1]) #--> print o
-print(name[2]) #--> print d
-print(name[3]) #--> print e
+print(name[0])      #--> print C 
+print(name[1])      #--> print o
+print(name[2])      #--> print d
+print(name[3])      #--> print e
+print(name[0:3])    #--> print Cod it prints 0 to 2 char don't count 3
