@@ -1,0 +1,21 @@
+#Print one string
+
+name = 'Code Makers'
+print(name)
+name = "Code's" #use double quotes while one quotes in your statment
+print(name)
+
+#Print two string together
+
+greeting = "Good morning, "
+name = "Bahvin"
+print(greeting + name)
+#If we want to know which class print then use
+print(type(name)) #--> in this you find the class of name 
+
+#print a char one by one 
+name = "Code"
+print(name[0]) #--> print C 
+print(name[1]) #--> print o
+print(name[2]) #--> print d
+print(name[3]) #--> print e
