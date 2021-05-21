@@ -1,0 +1,9 @@
+#negative inices use 
+
+name = "Bhavin"
+print(name[-1])     #--> Print n 
+print(name[-2])     #--> Print i
+print(name[-3])     #--> Print v
+print(name[-4])     #--> print a
+print(name[-5])     #--> Print h
+print(name[-6])     #--> Print B
